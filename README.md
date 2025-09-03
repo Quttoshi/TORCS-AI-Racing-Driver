@@ -1,10 +1,6 @@
 # TORCS-AI-Racing-Driver
 An advanced machine learning-based autonomous racing driver for TORCS (The Open Racing Car Simulator). This project implements a complete pipeline from human driving data collection to training sophisticated AI models that can race competitively on various tracks.
 
-# TORCS AI Racing Driver
-
-An advanced machine learning-based autonomous racing driver for TORCS (The Open Racing Car Simulator). This project implements a complete pipeline from human driving data collection to training sophisticated AI models that can race competitively on various tracks.
-
 ## Overview
 
 This system uses pure machine learning approaches to create an AI driver that learns from human driving patterns. Unlike rule-based racing bots, this AI makes decisions based entirely on trained models, resulting in more natural and adaptive driving behavior.
